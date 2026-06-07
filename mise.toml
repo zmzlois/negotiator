@@ -1,0 +1,3 @@
+[tasks.dev]
+description = "run the negotiator elixir app with an ngrok tunnel"
+run = "mix negotiator.dev"
